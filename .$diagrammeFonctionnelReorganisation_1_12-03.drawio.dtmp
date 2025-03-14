@@ -1,0 +1,1230 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="XHTN5kzYnImK7OnvFEYw">
+    <mxGraphModel dx="7476" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-12" target="Qe1Y0xLzrqb8hRjtxMjF-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="230.00000000000023" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Qe1Y0xLzrqb8hRjtxMjF-3" target="Qe1Y0xLzrqb8hRjtxMjF-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-3" value="Démarrage du superviseur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="235" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Qe1Y0xLzrqb8hRjtxMjF-4" target="23mjy17fRcE4jYMLpG1k-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-12" value="Echec" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Qe1Y0xLzrqb8hRjtxMjF-9" vertex="1" connectable="0">
+          <mxGeometry x="0.0923" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Qe1Y0xLzrqb8hRjtxMjF-4" target="23mjy17fRcE4jYMLpG1k-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-13" value="Réussite" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Qe1Y0xLzrqb8hRjtxMjF-11" vertex="1" connectable="0">
+          <mxGeometry x="0.1429" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-4" value="Lancement serveur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="235" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-15" target="Qe1Y0xLzrqb8hRjtxMjF-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="541.5" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Qe1Y0xLzrqb8hRjtxMjF-16" target="Qe1Y0xLzrqb8hRjtxMjF-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-16" value="Demande de connexion de l&#39;utilisateur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="452.75" y="445" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Qe1Y0xLzrqb8hRjtxMjF-25" target="23mjy17fRcE4jYMLpG1k-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-25" value="Etablissement d&#39;une connexion entre le moniteur et le superviseur via le socket" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="439" y="540" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-27" value="Affichage du message d&#39;erreur sur la console du superviseur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-82.5" y="524" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Qe1Y0xLzrqb8hRjtxMjF-36" target="Qe1Y0xLzrqb8hRjtxMjF-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="565" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-45" value="Réussite" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Qe1Y0xLzrqb8hRjtxMjF-38" vertex="1" connectable="0">
+          <mxGeometry x="-0.4042" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Qe1Y0xLzrqb8hRjtxMjF-36" target="Qe1Y0xLzrqb8hRjtxMjF-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-48" value="Echec" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Qe1Y0xLzrqb8hRjtxMjF-47" vertex="1" connectable="0">
+          <mxGeometry x="-0.2413" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-36" value="Etablissement d&#39;une connexion entre le superviseur et le robot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="425" y="900" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Qe1Y0xLzrqb8hRjtxMjF-39" target="23mjy17fRcE4jYMLpG1k-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-39" value="Perte de connexion entre le superviseur et le moniteur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-108.75" y="785" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Qe1Y0xLzrqb8hRjtxMjF-49" target="23mjy17fRcE4jYMLpG1k-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-49" value="Envoi d&#39;un message d&#39;acquittement du Superviseur au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="425" y="1010" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Qe1Y0xLzrqb8hRjtxMjF-50" target="23mjy17fRcE4jYMLpG1k-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-50" value="Envoi d&#39;un message d&#39;echec du Superviseur au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="140" y="900" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Qe1Y0xLzrqb8hRjtxMjF-54" target="Qe1Y0xLzrqb8hRjtxMjF-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-54" value="Perte de connexion entre le Superviseur et le Moniteur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="826.5" y="1300" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Qe1Y0xLzrqb8hRjtxMjF-56" target="Qe1Y0xLzrqb8hRjtxMjF-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-56" value="Le Superviseur stoppe le Robot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="855.25" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Qe1Y0xLzrqb8hRjtxMjF-58" target="Qe1Y0xLzrqb8hRjtxMjF-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-58" value="Le Superviseur stoppe la communication avec le Robot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="830.25" y="1490" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="Qe1Y0xLzrqb8hRjtxMjF-60" target="23mjy17fRcE4jYMLpG1k-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="1590" />
+              <mxPoint x="1470" y="1590" />
+              <mxPoint x="1470" y="123" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-60" value="Le Superviseur ferme le Serveur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="830.25" y="1570" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qe1Y0xLzrqb8hRjtxMjF-62" value="Le Superviseur déconnecte la caméra" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="258.45" y="1560" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-1" target="qMzfDePN9Y0MsexY5Q6C-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="162.5" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-1" value="Perte de connexion entre le Superviseur et le Robot" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="142.75" y="1300" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-5" target="qMzfDePN9Y0MsexY5Q6C-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-5" value="Envoi d&#39;un message de perte de connexion du Superviseur au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="129" y="1400" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-6" target="23mjy17fRcE4jYMLpG1k-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-6" value="Le Superviseur stoppe la communication avec le Robot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="145" y="1480" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-13" value="d" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-9" target="qMzfDePN9Y0MsexY5Q6C-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-9" value="Demande de l&#39;utilisateur de démarrage du Robot en mode «sans watchdog»" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-537.5" y="1260" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-12" target="qMzfDePN9Y0MsexY5Q6C-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-335" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-18" value="Réussite" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qMzfDePN9Y0MsexY5Q6C-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.2588" y="4" relative="1" as="geometry">
+            <mxPoint x="20" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-12" target="qMzfDePN9Y0MsexY5Q6C-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-21" value="Echec" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qMzfDePN9Y0MsexY5Q6C-20" vertex="1" connectable="0">
+          <mxGeometry x="0.1469" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-12" value="Démarrage du Robot «sans watchdog»" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-512.5" y="1350" width="127.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-19" target="23mjy17fRcE4jYMLpG1k-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-19" value="Envoi d&#39;un message d&#39;échec au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-592.5" y="1500" width="127.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-22" target="23mjy17fRcE4jYMLpG1k-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-22" value="Envoi d&#39;un message d&#39;acquittement au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-435" y="1500" width="127.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-27" target="qMzfDePN9Y0MsexY5Q6C-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-27" value="Réception d&#39;un ordre de mouvement par le Superviseur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-108.75" y="1705" width="188.75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-33" target="23mjy17fRcE4jYMLpG1k-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-40" value="&amp;lt; 100ms" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="23mjy17fRcE4jYMLpG1k-39" vertex="1" connectable="0">
+          <mxGeometry x="-0.287" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-33" value="Envoi de l&#39;ordre de mouvement du Superviseur au Robot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-101.88" y="1815" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-40" target="qMzfDePN9Y0MsexY5Q6C-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-40" value="Compteur de 500ms dépassé" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-675" y="1730" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-41" target="qMzfDePN9Y0MsexY5Q6C-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-41" value="Remise à zéro du compteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-687.5" y="1820" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-43" target="23mjy17fRcE4jYMLpG1k-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-43" value="Mise à jour du niveau de la batterie du Robot sur le Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-687.5" y="1910" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-49" target="23mjy17fRcE4jYMLpG1k-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1241.7" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-48" value="&amp;lt; 10ms" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qMzfDePN9Y0MsexY5Q6C-47" vertex="1" connectable="0">
+          <mxGeometry x="-0.2308" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-49" value="Envoi du message au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1162.2" y="1061" width="153.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-52" target="23mjy17fRcE4jYMLpG1k-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1034.95" y="1171" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-52" value="Envoi du message au Superviseur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="957.45" y="1061" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-56" target="qMzfDePN9Y0MsexY5Q6C-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-56" value="Le Moniteur demande l&#39;envoi d&#39;un message au Superviseur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="944.95" y="951" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-57" target="qMzfDePN9Y0MsexY5Q6C-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-57" value="Le Superviseur demande l&#39;envoi d&#39;un message au Moniteur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1141.7600000000002" y="951" width="194.62" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-63" target="qMzfDePN9Y0MsexY5Q6C-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-63" value="Le Moniteur demande le démarrage de la Caméra au Superviseur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="681" y="2110" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-65" target="23mjy17fRcE4jYMLpG1k-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-76" value="Réussite" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="23mjy17fRcE4jYMLpG1k-75" vertex="1" connectable="0">
+          <mxGeometry x="0.0757" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-65" target="qMzfDePN9Y0MsexY5Q6C-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-78" value="Echec" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="23mjy17fRcE4jYMLpG1k-77" vertex="1" connectable="0">
+          <mxGeometry x="-0.2428" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-65" value="Le Superviseur démarre la caméra" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="694.1300000000001" y="2220" width="153.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-67" target="23mjy17fRcE4jYMLpG1k-71" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1081" y="2430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-67" value="Le Superviseur envoie un message d&#39;echec au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1004.1199999999999" y="2330" width="153.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-81" target="qMzfDePN9Y0MsexY5Q6C-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-81" value="Compteur de 100ms dépassé" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="613.5" y="2558" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-83" target="qMzfDePN9Y0MsexY5Q6C-85" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-83" value="Remise à zéro du compteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="601" y="2658" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-85" value="Envoi d&#39;une image au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="601" y="2748" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-88" target="qMzfDePN9Y0MsexY5Q6C-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-88" value="Demande de fermeture de la Caméra par le Moniteur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="798.5" y="2548" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-90" target="qMzfDePN9Y0MsexY5Q6C-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-90" value="Envoi d&#39;un message d&#39;acquittement au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="796" y="2658" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-92" target="23mjy17fRcE4jYMLpG1k-71" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="971" y="2480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-92" value="Arrêt de la Caméra" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="796" y="2748" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-97" target="qMzfDePN9Y0MsexY5Q6C-99" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-97" value="Demande de recherche de l&#39;arène" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="56" y="2260" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-99" target="qMzfDePN9Y0MsexY5Q6C-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-103" value="Réussite" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qMzfDePN9Y0MsexY5Q6C-102" vertex="1" connectable="0">
+          <mxGeometry x="-0.0932" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-99" target="qMzfDePN9Y0MsexY5Q6C-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-106" value="Echec" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qMzfDePN9Y0MsexY5Q6C-105" vertex="1" connectable="0">
+          <mxGeometry x="-0.0173" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-99" value="Recherche de l&#39;arène" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="38.5" y="2360" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-101" target="qMzfDePN9Y0MsexY5Q6C-107" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-101" value="Renvoi d&#39;une image sur laquelle est dessinée l&#39;arène" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-79" y="2470" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-104" value="Envoi d&#39;un message d&#39;echec du Superviseur au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="119.36999999999989" y="2470" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-107" target="qMzfDePN9Y0MsexY5Q6C-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-114" value="Validée" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qMzfDePN9Y0MsexY5Q6C-111" vertex="1" connectable="0">
+          <mxGeometry x="0.1622" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-107" target="qMzfDePN9Y0MsexY5Q6C-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-115" value="Invalidée" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qMzfDePN9Y0MsexY5Q6C-113" vertex="1" connectable="0">
+          <mxGeometry x="0.0126" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-107" value="Attente de validation de l&#39;arène par l&#39;utilisateur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-19.049999999999955" y="2700" width="162.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-110" target="23mjy17fRcE4jYMLpG1k-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-110" value="Sauvegarde de l&#39;arène trouvée" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-134.04999999999995" y="2840" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-112" value="Rejet de l&#39;arène" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="83.45000000000005" y="2840" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-124" target="qMzfDePN9Y0MsexY5Q6C-126" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-124" value="Compteur de 100ms dépassé" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-121.54999999999995" y="3100" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-126" target="qMzfDePN9Y0MsexY5Q6C-129" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-126" value="Remise à zéro du compteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-134.04999999999995" y="3200" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-127" target="23mjy17fRcE4jYMLpG1k-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-127" value="Envoi d&#39;une image au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-134.04999999999995" y="3400" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-129" target="qMzfDePN9Y0MsexY5Q6C-127" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-129" value="Ajout de l&#39;image de la Caméra à l&#39;arène déssinée" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-134.04999999999995" y="3300" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-133" target="23mjy17fRcE4jYMLpG1k-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-133" value="Demande de l&#39;utilisateur de calcul de la position du Robot" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="348.06999999999994" y="3110" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-136" target="qMzfDePN9Y0MsexY5Q6C-138" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-62" value="Réussite" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="23mjy17fRcE4jYMLpG1k-61" vertex="1" connectable="0">
+          <mxGeometry x="0.3003" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-136" target="qMzfDePN9Y0MsexY5Q6C-154" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-65" value="Echec" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="23mjy17fRcE4jYMLpG1k-64" vertex="1" connectable="0">
+          <mxGeometry x="0.0127" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-136" value="Calcul de la position du Robot par le Superviseur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="658.3699999999999" y="3400" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-138" target="qMzfDePN9Y0MsexY5Q6C-148" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-138" value="Dessin sur l&#39;image du résultat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="906.3" y="3500" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-148" target="qMzfDePN9Y0MsexY5Q6C-150" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-148" value="Compteur de 100ms dépassé" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="918.8" y="3600" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-150" target="qMzfDePN9Y0MsexY5Q6C-151" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-150" value="Remise à zéro du compteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="906.3" y="3700" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-151" target="23mjy17fRcE4jYMLpG1k-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-151" value="Envoi d&#39;un message au Moniteur contenant les coordonnée du Robot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="906.3" y="3790" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-154" target="qMzfDePN9Y0MsexY5Q6C-156" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-154" value="Compteur de 100ms dépassé" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="563.5" y="3560" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-156" target="qMzfDePN9Y0MsexY5Q6C-157" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-156" value="Remise à zéro du compteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="551" y="3660" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-157" target="23mjy17fRcE4jYMLpG1k-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-157" value="Envoi d&#39;un message au Moniteur contenant les coordonnée du (-1,-1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="551" y="3750" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qMzfDePN9Y0MsexY5Q6C-166" target="23mjy17fRcE4jYMLpG1k-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMzfDePN9Y0MsexY5Q6C-166" value="Demande de l&#39;utilisateur de stopper le calcul de la position du Robot" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="64.70000000000005" y="3450" width="176" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-11" value="&lt;b&gt;Superviseur démarré&lt;br&gt;Serveur démarré&lt;br&gt;Superviseur connecté au Moniteur&lt;/b&gt;&lt;div&gt;&lt;b&gt;Superviseur connecté au Robot&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Robot démarré «sans watchdog»&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Caméra à l&#39;arrêt&lt;/div&gt;&lt;div&gt;&lt;div&gt;Arène introuvable&lt;/div&gt;&lt;div&gt;Calcul de la position inactif&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1078.03" y="330" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-12" value="&lt;span style=&quot;text-align: center;&quot;&gt;Superviseur à l&#39;arrêt&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Serveur à l&#39;arrêt&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;Superviseur déconnecté au Moniteur&lt;div&gt;Superviseur déconnecté au Robot&lt;/div&gt;&lt;div&gt;Robot à l&#39;arrêt&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Caméra à l&#39;arrêt&lt;/div&gt;&lt;div&gt;&lt;div&gt;Arène introuvable&lt;/div&gt;&lt;div&gt;Calcul de la position inactif&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="190" y="90" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-13" target="Qe1Y0xLzrqb8hRjtxMjF-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-13" value="&lt;b style=&quot;text-align: center;&quot;&gt;Superviseur démarré&lt;/b&gt;&lt;br style=&quot;text-align: center;&quot;&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Serveur à l&#39;arrêt&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;Superviseur déconnecté au Moniteur&lt;div&gt;Superviseur déconnecté au Robot&lt;/div&gt;&lt;div&gt;Robot à l&#39;arrêt&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Caméra à l&#39;arrêt&lt;/div&gt;&lt;div&gt;&lt;div&gt;Arène introuvable&lt;/div&gt;&lt;div&gt;Calcul de la position inactif&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="350" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-15" value="&lt;div&gt;&lt;b style=&quot;text-align: center;&quot;&gt;Superviseur démarré&lt;br&gt;Serveur démarré&lt;/b&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;Superviseur déconnecté au Moniteur&lt;div&gt;Superviseur déconnecté au Robot&lt;/div&gt;&lt;div&gt;Robot à l&#39;arrêt&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Caméra à l&#39;arrêt&lt;/div&gt;&lt;div&gt;&lt;div&gt;Arène introuvable&lt;/div&gt;&lt;div&gt;Calcul de la position inactif&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="616.5" y="270" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-16" target="Qe1Y0xLzrqb8hRjtxMjF-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-16" target="Qe1Y0xLzrqb8hRjtxMjF-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-16" target="qMzfDePN9Y0MsexY5Q6C-56" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-16" target="qMzfDePN9Y0MsexY5Q6C-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-16" value="&lt;div&gt;&lt;b style=&quot;text-align: center;&quot;&gt;Superviseur démarré&lt;br&gt;Serveur démarré&lt;br&gt;Superviseur connecté au Moniteur&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Superviseur déconnecté au Robot&lt;/div&gt;&lt;div&gt;Robot à l&#39;arrêt&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Caméra à l&#39;arrêt&lt;/div&gt;&lt;div&gt;&lt;div&gt;Arène introuvable&lt;/div&gt;&lt;div&gt;Calcul de la position inactif&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="120" y="590" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-21" value="&lt;div&gt;&lt;b style=&quot;text-align: center;&quot;&gt;Superviseur démarré&lt;br&gt;Serveur démarré&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Superviseur déconnecté du Moniteur&lt;/span&gt;&lt;b style=&quot;text-align: center;&quot;&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Superviseur déconnecté au Robot&lt;/div&gt;&lt;div&gt;Robot à l&#39;arrêt&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Caméra à l&#39;arrêt&lt;/div&gt;&lt;div&gt;&lt;div&gt;Arène introuvable&lt;/div&gt;&lt;div&gt;Calcul de la position inactif&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-190.93" y="930" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-24" value="&lt;span style=&quot;text-align: center;&quot;&gt;Message reçu par le Superviseur&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="945.95" y="1200" width="179" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-25" value="&lt;span style=&quot;text-align: center;&quot;&gt;Message reçu par le Moniteur&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1154.07" y="1199" width="170" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-27" target="qMzfDePN9Y0MsexY5Q6C-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-27" target="qMzfDePN9Y0MsexY5Q6C-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-27" target="qMzfDePN9Y0MsexY5Q6C-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-27" target="Qe1Y0xLzrqb8hRjtxMjF-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-27" target="qMzfDePN9Y0MsexY5Q6C-63" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="1218" />
+              <mxPoint x="610" y="1980" />
+              <mxPoint x="771" y="1980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-27" value="&lt;div&gt;&lt;b style=&quot;text-align: center;&quot;&gt;Superviseur démarré&lt;br&gt;Serveur démarré&lt;br&gt;Superviseur connecté au Moniteur&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Superviseur connecté au Robot&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Robot à l&#39;arrêt&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Caméra à l&#39;arrêt&lt;/div&gt;&lt;div&gt;&lt;div&gt;Arène introuvable&lt;/div&gt;&lt;div&gt;Calcul de la position inactif&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="290" y="1120" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-33" target="qMzfDePN9Y0MsexY5Q6C-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-33" target="qMzfDePN9Y0MsexY5Q6C-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-33" value="&lt;div&gt;&lt;b style=&quot;text-align: center;&quot;&gt;Superviseur démarré&lt;br&gt;Serveur démarré&lt;br&gt;Superviseur connecté au Moniteur&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Superviseur connecté au Robot&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Robot démarré «sans watchdog»&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Caméra à l&#39;arrêt&lt;/div&gt;&lt;div&gt;&lt;div&gt;Arène introuvable&lt;/div&gt;&lt;div&gt;Calcul de la position inactif&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-465" y="1590" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-37" target="23mjy17fRcE4jYMLpG1k-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-37" value="&lt;span style=&quot;text-align: center;&quot;&gt;Ordre de mouvement reçu par le Robot&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="1982.5" width="220" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-47" target="qMzfDePN9Y0MsexY5Q6C-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-47" target="qMzfDePN9Y0MsexY5Q6C-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-47" target="qMzfDePN9Y0MsexY5Q6C-133" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-47" value="&lt;b style=&quot;text-align: center;&quot;&gt;Superviseur démarré&lt;br&gt;Serveur démarré&lt;/b&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;b style=&quot;text-align: center;&quot;&gt;Superviseur connecté au Moniteur&lt;/b&gt;&lt;br&gt;&lt;div&gt;Superviseur déconnecté au Robot&lt;/div&gt;&lt;div&gt;Robot à l&#39;arrêt&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;Caméra démarrée&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Arène trouvée&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Calcul de la position inactif&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-435" y="2950" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-57" target="qMzfDePN9Y0MsexY5Q6C-136" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-57" target="qMzfDePN9Y0MsexY5Q6C-166" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-57" value="&lt;b style=&quot;text-align: center;&quot;&gt;Superviseur démarré&lt;br&gt;Serveur démarré&lt;/b&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;b style=&quot;text-align: center;&quot;&gt;Superviseur connecté au Moniteur&lt;/b&gt;&lt;br&gt;&lt;div&gt;Superviseur déconnecté au Robot&lt;/div&gt;&lt;div&gt;Robot à l&#39;arrêt&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;Caméra démarrée&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Arène trouvée&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;text-align: center;&quot;&gt;Calcul de la position actif&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="333.06999999999994" y="3240" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-71" value="&lt;b style=&quot;text-align: center;&quot;&gt;Superviseur démarré&lt;br&gt;Serveur démarré&lt;br&gt;Superviseur connecté au Moniteur&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;Superviseur déconnecté au Robot&lt;/div&gt;&lt;div&gt;Robot à l&#39;arrêt&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Caméra à l&#39;arrêt&lt;/div&gt;&lt;div&gt;&lt;div&gt;Arène introuvable&lt;/div&gt;&lt;div&gt;Calcul de la position inactif&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1068.8000000000002" y="2490" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-72" value="&lt;span style=&quot;text-align: center;&quot;&gt;Superviseur à l&#39;arrêt&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Serveur à l&#39;arrêt&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;Superviseur déconnecté au Moniteur&lt;div&gt;Superviseur déconnecté au Robot&lt;/div&gt;&lt;div&gt;Robot à l&#39;arrêt&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Caméra à l&#39;arrêt&lt;/div&gt;&lt;div&gt;&lt;div&gt;Arène introuvable&lt;/div&gt;&lt;div&gt;Calcul de la position inactif&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1059.58" y="524" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-74" target="qMzfDePN9Y0MsexY5Q6C-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-74" target="qMzfDePN9Y0MsexY5Q6C-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-74" target="qMzfDePN9Y0MsexY5Q6C-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-74" target="qMzfDePN9Y0MsexY5Q6C-81" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="681" y="2480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23mjy17fRcE4jYMLpG1k-74" target="qMzfDePN9Y0MsexY5Q6C-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-74" value="&lt;b style=&quot;text-align: center;&quot;&gt;Superviseur démarré&lt;br&gt;Serveur démarré&lt;br&gt;Superviseur connecté au Moniteur&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;Superviseur déconnecté au Robot&lt;/div&gt;&lt;div&gt;Robot à l&#39;arrêt&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b style=&quot;text-align: center;&quot;&gt;Caméra démarrée&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Arène introuvable&lt;/div&gt;&lt;div&gt;Calcul de la position inactif&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="403.50000000000045" y="2435" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-87" value="&lt;span style=&quot;text-align: center;&quot;&gt;Superviseur à l&#39;arrêt&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Serveur à l&#39;arrêt&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;Superviseur déconnecté au Moniteur&lt;div&gt;Superviseur déconnecté au Robot&lt;/div&gt;&lt;div&gt;Robot à l&#39;arrêt&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Caméra à l&#39;arrêt&lt;/div&gt;&lt;div&gt;&lt;div&gt;Arène introuvable&lt;/div&gt;&lt;div&gt;Calcul de la position inactif&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1750" y="180" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-88" value="Demande de connexion de l&#39;utilisateur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1620" y="3620" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-89" value="Démarrage du superviseur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1840" y="3635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-90" value="Démarrage du superviseur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1999" y="3710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-91" value="Perte de connexion entre le superviseur et le moniteur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1735.25" y="3835" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-92" value="Le Moniteur demande l&#39;envoi d&#39;un message au Superviseur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1675.9999999999998" y="3924" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-93" value="Le Superviseur demande l&#39;envoi d&#39;un message au Moniteur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1872.8100000000002" y="3924" width="194.62" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-94" value="Perte de connexion entre le Superviseur et le Moniteur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2726" y="3869" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-95" value="Perte de connexion entre le Superviseur et le Robot" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2116" y="4035" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-96" value="Demande de l&#39;utilisateur de démarrage du Robot en mode «sans watchdog»" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2126" y="3924" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-97" value="Compteur de 500ms dépassé" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2303.5" y="3845" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-98" value="Réception d&#39;un ordre de mouvement par le Superviseur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2005.25" y="3823.5" width="188.75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-99" value="Demande de recherche de l&#39;arène" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2466" y="4155" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-100" value="Le Moniteur demande le démarrage de la Caméra au Superviseur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2159.75" y="4155" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-101" value="Compteur de 100ms dépassé" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1692.0000000000002" y="4045" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-102" value="Demande de fermeture de la Caméra par le Moniteur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1877.0000000000002" y="4035" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-103" value="Attente de validation de l&#39;arène par l&#39;utilisateur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2251.5" y="3730" width="162.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-104" value="Compteur de 100ms dépassé" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2396" y="3929" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-105" value="Demande de l&#39;utilisateur de calcul de la position du Robot" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2356" y="4030" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-106" value="Demande de l&#39;utilisateur de stopper le calcul de la position du Robot" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2576" y="3985" width="176" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-107" value="Compteur de 100ms dépassé" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1706.0000000000002" y="4165" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-108" value="Compteur de 100ms dépassé" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1946.0000000000005" y="4185" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-109" value="Superviseur démarré" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1710" y="375" width="380" height="355" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-110" value="Serveur démarré" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1650" y="1119" width="550" height="511" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-111" value="&lt;span style=&quot;text-align: left;&quot;&gt;Superviseur connecté au Moniteur&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="1410" width="620" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-112" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Superviseur connecté au Robot&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="2540" y="570" width="505" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-113" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;Robot démarré&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="2130" y="350" width="470" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-116" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;&lt;div&gt;Caméra démarrée&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="2400" y="1031" width="450" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-117" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Arène trouvée&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1948" y="775" width="492" height="385" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-118" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;&lt;div&gt;Calcul de la position actif&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="751" width="406.25" height="379" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-121" value="Envoi d&#39;un message au Moniteur contenant les coordonnée du (-1,-1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2235.63" y="1630" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-123" value="Dessin sur l&#39;image du résultat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2590" y="1220" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-124" value="Calcul de la position du Robot par le Superviseur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2621" y="1290" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-126" value="Ajout de l&#39;image de la Caméra à l&#39;arène déssinée" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1971.4999999999998" y="880" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-128" value="Sauvegarde de l&#39;arène trouvée" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="810" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-129" value="Rejet de l&#39;arène" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2590" y="1155" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-130" value="Renvoi d&#39;une image sur laquelle est dessinée l&#39;arène" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2012.13" y="810" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-132" value="Recherche de l&#39;arène" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2401" y="1155" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-133" value="Le Superviseur démarre la caméra" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1936.2499999999995" y="480" width="153.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-136" value="Arrêt de la Caméra" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2401" y="1220" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-137" value="Envoi d&#39;une image au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2442.25" y="1290" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-139" value="Envoi de l&#39;ordre de mouvement du Superviseur au Robot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2535.9999999999995" y="751" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-140" value="Mise à jour du niveau de la batterie du Robot sur le Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2606" y="610" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-144" value="Démarrage du Robot «sans watchdog»" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2570" y="680" width="127.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-147" value="Le Superviseur déconnecte la caméra" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2450.9999999999995" y="1080" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-148" value="Le Superviseur ferme le Serveur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1756.3700000000003" y="1169" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-149" value="Le Superviseur stoppe la communication avec le Robot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2790.0000000000005" y="610" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-150" value="Le Superviseur stoppe le Robot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1538.5" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-151" value="Envoi du message au Superviseur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1521" y="522.5" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-152" value="Envoi du message au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2246.25" y="1550" width="153.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-154" value="Etablissement d&#39;une connexion entre le superviseur et le robot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1716.5000000000002" y="554" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-156" value="Etablissement d&#39;une connexion entre le moniteur et le superviseur via le socket" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1721.3700000000001" y="480" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-157" value="Lancement serveur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1765" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-158" value="Affichage du message d&#39;erreur sur la console du superviseur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1902.62" y="410" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-165" value="Remise à zéro du compteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2225" y="400" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-166" value="Mise à jour du niveau de la batterie du Robot sur le Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2460" y="1476" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-167" value="Envoi d&#39;un message de perte de connexion du Superviseur au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2710" y="680" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-168" value="Renvoi d&#39;une image sur laquelle est dessinée l&#39;arène" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2635" y="1080" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23mjy17fRcE4jYMLpG1k-169" value="Envoi d&#39;un message au Moniteur contenant les coordonnée du Robot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2422.25" y="1550" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-1" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;(8) - Calcul de la position actif&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-1390" y="1950" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-4" target="MBx9WTgQ6g9cfem06Tct-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-132" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-4" target="MBx9WTgQ6g9cfem06Tct-128" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-4" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(2) - Serveur&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;démarré&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-4024" y="1175" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-89" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-5" target="MBx9WTgQ6g9cfem06Tct-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-5" target="MBx9WTgQ6g9cfem06Tct-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-161" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-5" target="MBx9WTgQ6g9cfem06Tct-149" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3527" y="1759" />
+              <mxPoint x="-3594" y="1759" />
+              <mxPoint x="-3594" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-162" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-5" target="MBx9WTgQ6g9cfem06Tct-151" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3411" y="1769" />
+              <mxPoint x="-3133" y="1769" />
+              <mxPoint x="-3133" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-5" value="&lt;div&gt;(3) - Superviseur connecté au Moniteur&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-3538" y="1320" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-136" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;exitX=0.09;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="MBx9WTgQ6g9cfem06Tct-6" target="MBx9WTgQ6g9cfem06Tct-112" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3240" y="1910" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-168" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.45;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;fillColor=#f5f5f5;exitPerimeter=0;" parent="1" source="MBx9WTgQ6g9cfem06Tct-6" target="MBx9WTgQ6g9cfem06Tct-164" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3147" y="1970" />
+              <mxPoint x="-3083" y="1970" />
+              <mxPoint x="-3083" y="1969" />
+              <mxPoint x="-2451" y="1969" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-180" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;fillColor=#f5f5f5;exitPerimeter=0;" parent="1" source="MBx9WTgQ6g9cfem06Tct-6" target="MBx9WTgQ6g9cfem06Tct-171" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3126" y="1909" />
+              <mxPoint x="-3130" y="1909" />
+              <mxPoint x="-3130" y="1939" />
+              <mxPoint x="-2162" y="1939" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-199" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.36;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;fillColor=#f5f5f5;exitPerimeter=0;" parent="1" source="MBx9WTgQ6g9cfem06Tct-6" target="MBx9WTgQ6g9cfem06Tct-184" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-203" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.64;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-6" target="MBx9WTgQ6g9cfem06Tct-189" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-6" value="&lt;div&gt;&lt;div&gt;(4) - Superviseur connecté au Robot&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0.09,1,0,0,0],[0.18,1,0,0,0],[0.25,0,0,0,0],[0.27,1,0,0,0],[0.36,1,0,0,0],[0.45,1,0,0,0],[0.5,0,0,0,0],[0.55,1,0,0,0],[0.64,1,0,0,0],[0.73,1,0,0,0],[0.75,0,0,0,0],[0.82,1,0,0,0],[0.91,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0]];" parent="1" vertex="1">
+          <mxGeometry x="-2970" y="1280" width="215" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;jumpStyle=arc;jumpSize=12;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-7" target="MBx9WTgQ6g9cfem06Tct-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-7" value="&lt;div&gt;(5) - Robot&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;démarré&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-2340" y="1300" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-139" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-8" target="MBx9WTgQ6g9cfem06Tct-135" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-8" value="&lt;div&gt;(6) - Caméra&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;démarré&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-1910" y="1283.5" width="140" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-9" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(7) - Arène trouvée&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-1560" y="1480" width="130" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-22" target="MBx9WTgQ6g9cfem06Tct-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-28" value="Réussite" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#666666;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeWidth=4;fillColor=#f5f5f5;" parent="MBx9WTgQ6g9cfem06Tct-27" vertex="1" connectable="0">
+          <mxGeometry x="0.2528" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-22" target="MBx9WTgQ6g9cfem06Tct-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-31" value="Echec" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#666666;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeWidth=4;fillColor=#f5f5f5;" parent="MBx9WTgQ6g9cfem06Tct-30" vertex="1" connectable="0">
+          <mxGeometry x="0.0332" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-22" value="Lancement serveur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-4920" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-78" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-29" target="MBx9WTgQ6g9cfem06Tct-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-100" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-29" target="MBx9WTgQ6g9cfem06Tct-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-29" value="Affichage du message d&#39;erreur sur la console du superviseur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-5340" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-86" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.375;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-32" target="MBx9WTgQ6g9cfem06Tct-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4017.75" y="2248.75" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-32" value="Demande de connexion de l&#39;utilisateur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-4054" y="2119" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-159" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-35" target="MBx9WTgQ6g9cfem06Tct-156" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-35" value="Démarrage du superviseur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-5590" y="1929" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MBx9WTgQ6g9cfem06Tct-37" target="MBx9WTgQ6g9cfem06Tct-71" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3935" y="2519.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-73" value="Echec" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#666666;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeWidth=4;fillColor=#f5f5f5;" parent="MBx9WTgQ6g9cfem06Tct-72" vertex="1" connectable="0">
+          <mxGeometry x="-0.2696" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-75" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-37" target="MBx9WTgQ6g9cfem06Tct-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3254" y="2109" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-76" value="Réussite" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#666666;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeWidth=4;fillColor=#f5f5f5;" parent="MBx9WTgQ6g9cfem06Tct-75" vertex="1" connectable="0">
+          <mxGeometry x="-0.1771" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-37" value="Etablissement d&#39;une connexion entre le moniteur et le superviseur via le socket" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-4067.75" y="2330.5" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.375;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-41" target="MBx9WTgQ6g9cfem06Tct-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.625;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-41" target="MBx9WTgQ6g9cfem06Tct-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-131" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-41" target="MBx9WTgQ6g9cfem06Tct-128" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-138" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-41" target="MBx9WTgQ6g9cfem06Tct-135" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-41" value="Perte de connexion entre le superviseur et le moniteur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-3861.5" y="2258.75" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-43" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;(8) - Calcul de la position inactif&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-1390" y="2640" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-44" target="MBx9WTgQ6g9cfem06Tct-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-44" value="(1) - &lt;u&gt;Superviseur&lt;/u&gt; à l&#39;arrêt" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-5570" y="2418.75" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-45" target="MBx9WTgQ6g9cfem06Tct-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-45" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(2) - &lt;u&gt;Serveur&lt;/u&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;à l&#39;arrêt&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-5260" y="3450" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-62" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-46" target="MBx9WTgQ6g9cfem06Tct-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-46" value="&lt;div&gt;(3) - &lt;u&gt;Superviseur&lt;/u&gt; déconnecté du &lt;u&gt;Moniteur&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-4650" y="3680" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-90" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-47" target="MBx9WTgQ6g9cfem06Tct-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-47" value="&lt;div&gt;&lt;div&gt;(4) - &lt;u&gt;Superviseur&lt;/u&gt; &lt;b&gt;déconnecté &lt;/b&gt;du &lt;u&gt;Robot&lt;/u&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-4061.5" y="3700" width="215" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-141" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-48" target="MBx9WTgQ6g9cfem06Tct-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-48" value="&lt;div&gt;(5) - &lt;u&gt;Robot&lt;/u&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;à l&#39;arrêt&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-3241.5" y="3660" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-49" value="&lt;div&gt;(6) - &lt;u&gt;Caméra&lt;/u&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;à l&#39;arrêt&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-2574" y="3460" width="140" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-50" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(7) - Arène introuvable&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-2020" y="3214" width="130" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-71" target="MBx9WTgQ6g9cfem06Tct-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-71" value="Affichage du message d&#39;erreur sur la console du superviseur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-3861.5" y="2569.5" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-82" target="MBx9WTgQ6g9cfem06Tct-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3256.5" y="2419.25" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-82" value="Le Superviseur stoppe le Robot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-3500" y="2435" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-94" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-88" target="MBx9WTgQ6g9cfem06Tct-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-95" value="Réussite" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#666666;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeWidth=4;fillColor=#f5f5f5;" parent="MBx9WTgQ6g9cfem06Tct-94" vertex="1" connectable="0">
+          <mxGeometry x="0.2168" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-96" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-88" target="MBx9WTgQ6g9cfem06Tct-93" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3095.25" y="2528.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-97" value="Echec" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#666666;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeWidth=4;fillColor=#f5f5f5;" parent="MBx9WTgQ6g9cfem06Tct-96" vertex="1" connectable="0">
+          <mxGeometry x="0.027" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-88" value="Etablissement d&#39;une connexion entre le superviseur et le robot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-3226.5" y="2258.75" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;elbow=vertical;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;entryX=0.18;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="MBx9WTgQ6g9cfem06Tct-92" target="MBx9WTgQ6g9cfem06Tct-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3164" y="1919" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2936" y="2340" />
+              <mxPoint x="-2860" y="2340" />
+              <mxPoint x="-2860" y="1999" />
+              <mxPoint x="-3205" y="1999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-92" value="Envoi d&#39;un message d&#39;acquittement du Superviseur au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-3090" y="2398.75" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-98" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-93" target="MBx9WTgQ6g9cfem06Tct-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-93" value="Envoi d&#39;un message d&#39;echec du Superviseur au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-3029" y="2537" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;jumpSize=12;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-112" target="MBx9WTgQ6g9cfem06Tct-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3166.5" y="2849.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-112" value="Le Superviseur stoppe la communication avec le Robot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-3444" y="2769.25" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-133" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;flowAnimation=0;shadow=0;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-128" target="MBx9WTgQ6g9cfem06Tct-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-128" value="Le Superviseur ferme le Serveur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-3616.5" y="2604.25" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-140" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-135" target="MBx9WTgQ6g9cfem06Tct-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-135" value="Le Superviseur déconnecte la caméra" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-2809" y="2039" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=20;fontColor=default;labelBackgroundColor=default;elbow=vertical;jumpStyle=arc;jumpSize=12;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-145" target="MBx9WTgQ6g9cfem06Tct-153" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3271.18" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-144" value="&amp;lt; 10ms" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#666666;strokeWidth=4;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f5f5f5;" parent="MBx9WTgQ6g9cfem06Tct-143" vertex="1" connectable="0">
+          <mxGeometry x="-0.2308" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-145" value="Envoi du message au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-3350.68" y="881" width="153.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;jumpStyle=arc;jumpSize=12;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-147" target="MBx9WTgQ6g9cfem06Tct-152" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3477.93" y="991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-147" value="Envoi du message au Superviseur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-3555.43" y="881" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;jumpStyle=arc;jumpSize=12;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-149" target="MBx9WTgQ6g9cfem06Tct-147" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-149" value="Le Moniteur demande l&#39;envoi d&#39;un message au Superviseur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-3567.93" y="771" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;jumpStyle=arc;jumpSize=12;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-151" target="MBx9WTgQ6g9cfem06Tct-145" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-151" value="Le Superviseur demande l&#39;envoi d&#39;un message au Moniteur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-3371.12" y="771" width="194.62" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-152" value="&lt;span style=&quot;&quot;&gt;Message reçu par le Superviseur&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-3566.93" y="1020" width="179" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-153" value="&lt;span style=&quot;&quot;&gt;Message reçu par le Moniteur&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-3358.81" y="1019" width="170" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-157" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-156" target="MBx9WTgQ6g9cfem06Tct-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-156" value="&lt;span&gt;(1) - Superviseur démarré&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-5270" y="1324.5" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-202" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.375;exitY=1;exitDx=0;exitDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-164" target="MBx9WTgQ6g9cfem06Tct-166" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-164" value="Perte de connexion entre le Superviseur et le Robot" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-2540.25" y="2135" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;jumpStyle=arc;jumpSize=12;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-166" target="MBx9WTgQ6g9cfem06Tct-167" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-166" value="Envoi d&#39;un message de perte de connexion du Superviseur au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-2716.5" y="2260" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-169" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-167" target="MBx9WTgQ6g9cfem06Tct-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-167" value="Le Superviseur stoppe la communication avec le Robot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-2589" y="2419.75" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;jumpStyle=arc;jumpSize=12;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-171" target="MBx9WTgQ6g9cfem06Tct-176" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-171" value="Demande de l&#39;utilisateur de démarrage du Robot en mode «sans watchdog»" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-2251" y="2089" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;jumpStyle=arc;jumpSize=12;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-176" target="MBx9WTgQ6g9cfem06Tct-178" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2101" y="2428.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-173" value="Réussite" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#666666;strokeWidth=4;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f5f5f5;" parent="MBx9WTgQ6g9cfem06Tct-172" vertex="1" connectable="0">
+          <mxGeometry x="-0.2588" y="4" relative="1" as="geometry">
+            <mxPoint x="20" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;jumpStyle=arc;jumpSize=12;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-176" target="MBx9WTgQ6g9cfem06Tct-177" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-175" value="Echec" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#666666;strokeWidth=4;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f5f5f5;" parent="MBx9WTgQ6g9cfem06Tct-174" vertex="1" connectable="0">
+          <mxGeometry x="0.1469" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-176" value="Démarrage du Robot «sans watchdog»" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-2278.5" y="2248.75" width="127.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-181" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-177" target="MBx9WTgQ6g9cfem06Tct-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2114.5" y="2649.25" />
+              <mxPoint x="-2782.5" y="2649.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-177" value="Envoi d&#39;un message d&#39;échec au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-2358.5" y="2398.75" width="127.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-182" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-178" target="MBx9WTgQ6g9cfem06Tct-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-178" value="Envoi d&#39;un message d&#39;acquittement au Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-2201" y="2398.75" width="127.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;jumpStyle=arc;jumpSize=12;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-184" target="MBx9WTgQ6g9cfem06Tct-187" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-184" value="Réception d&#39;un ordre de mouvement par le Superviseur" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-2057.88" y="2277" width="188.75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;jumpStyle=arc;jumpSize=12;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-187" target="MBx9WTgQ6g9cfem06Tct-198" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-186" value="&amp;lt; 100ms" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#666666;strokeWidth=4;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#f5f5f5;" parent="MBx9WTgQ6g9cfem06Tct-185" vertex="1" connectable="0">
+          <mxGeometry x="-0.287" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-187" value="Envoi de l&#39;ordre de mouvement du Superviseur au Robot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-2051.01" y="2387" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MBx9WTgQ6g9cfem06Tct-189" target="MBx9WTgQ6g9cfem06Tct-191" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-189" value="Compteur de 500ms dépassé" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-1816.63" y="2280.5" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MBx9WTgQ6g9cfem06Tct-191" target="MBx9WTgQ6g9cfem06Tct-193" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-191" value="Remise à zéro du compteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-1829.13" y="2370.5" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-193" value="Mise à jour du niveau de la batterie du Robot sur le Moniteur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-1829.13" y="2460.5" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-198" value="&lt;span style=&quot;text-align: center;&quot;&gt;Ordre de mouvement reçu par le Robot&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-2073.5" y="2539.5" width="220" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-201" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;fillColor=#f5f5f5;entryX=0.27;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="MBx9WTgQ6g9cfem06Tct-198" target="MBx9WTgQ6g9cfem06Tct-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3152" y="1876" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBx9WTgQ6g9cfem06Tct-204" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;jumpStyle=arc;jumpSize=12;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.73;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#666666;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=classic;fillColor=#f5f5f5;" parent="1" source="MBx9WTgQ6g9cfem06Tct-193" target="MBx9WTgQ6g9cfem06Tct-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
